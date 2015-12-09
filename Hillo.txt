@@ -1,0 +1,4 @@
+print("Huyllo world!")
+
+print("Hello friends!")
+
