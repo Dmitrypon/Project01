@@ -1,4 +1,4 @@
 print("Goodbye friends!")
 print("Hello my dear friends!;")
-
+цукцку
 
